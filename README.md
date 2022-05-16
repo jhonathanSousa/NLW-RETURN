@@ -2,7 +2,7 @@
 
 # NLW RETURN
 
-Projeto DoctorCare desenvolvido durante a semana da NLW RETURN no formato OnePage responsiva.ontém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer
+Projeto DoctorCare desenvolvido durante a semana da NLW RETURN no formato OnePage responsiva. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer
 
 ## Tecnologias utilizadas:
 
