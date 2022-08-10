@@ -2,11 +2,19 @@
 
 # NLW RETURN
 
-Projeto DoctorCare desenvolvido durante a semana da NLW RETURN no formato OnePage responsiva. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer
+DoctorCare project developed during NLW RETURN week in responsive OnePage format. Contains the following sections: Header, Navigation, Home, About, Services and Footer.
 
-## Tecnologias utilizadas:
+## 🚀 Technologies :
 
-- HTML5
-- CSS3
-- JAVASCRIPT
-- ScrollReveal
+**Front-end:** HTML5, CSS3 and JAVASCRIPT;
+
+**Library:** SCROLLREAVEAL;
+
+## 💻 How to use :
+
+Project Link : https://project-nlw-return.vercel.app/
+
+## 👨 Author :
+
+[@jhonathanSousa](https://www.linkedin.com/in/jhonathan-alves-sousa/)
+
